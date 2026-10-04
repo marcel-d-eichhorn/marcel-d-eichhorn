@@ -24,6 +24,9 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 
 ### Aktuell enthalten
 
+- **Debian Docker Homelab**  
+  Debian-basierter Container-Host mit Docker Compose, persistenten Daten, GPU-Passthrough und realen Troubleshooting-Fällen.
+
 - **Repo Security Checker**  
   Python-basierter Pre-Commit-Scanner mit YAML-Regeln, Regex und Git Hooks.
 
@@ -33,7 +36,6 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 ### In Arbeit / geplant
 
 - **Wazuh SIEM & Detection Engineering**
-- **Debian / Docker Homelab**
 - **Sophos Firewall & Netzwerkarchitektur**
 - **Docker Swarm & High Availability**
 - **Dell PowerEdge / RAID / Serveradministration**
