@@ -39,7 +39,6 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 ### In Arbeit / geplant
 
 - **Wazuh SIEM & Detection Engineering**
-- **Docker Swarm & High Availability**
 - **Dell PowerEdge / RAID / Serveradministration**
 - **Sysadmin Troubleshooting Case Studies**
 - **PowerShell- und Python-Automation**
