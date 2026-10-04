@@ -24,6 +24,9 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 
 ### Aktuell enthalten
 
+- **Sophos Firewall Homelab**  
+  Modulare Firewall- und Netzwerkarchitektur mit klarer Trennung zwischen Internetzugang, Security und internem Netz.
+
 - **Debian Docker Homelab**  
   Debian-basierter Container-Host mit Docker Compose, persistenten Daten, GPU-Passthrough und realen Troubleshooting-Fällen.
 
@@ -36,7 +39,6 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 ### In Arbeit / geplant
 
 - **Wazuh SIEM & Detection Engineering**
-- **Sophos Firewall & Netzwerkarchitektur**
 - **Docker Swarm & High Availability**
 - **Dell PowerEdge / RAID / Serveradministration**
 - **Sysadmin Troubleshooting Case Studies**
