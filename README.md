@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, ich bin Marcel 👋
 
-<!--
-**marcel-d-eichhorn/marcel-d-eichhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fachinformatiker für Systemintegration (in Umschulung)** mit Schwerpunkt auf **IT-Security, Linux, Networking, Cloud und Automation**.
 
-Here are some ideas to get you started:
+Ich komme aus einem technischen Service- und Mechatronik-Umfeld und baue mir parallel zur Umschulung ein praxisorientiertes IT-Portfolio auf. Dabei geht es mir nicht nur darum, dass etwas funktioniert, sondern auch darum, **warum es funktioniert, wie man Fehler systematisch findet und wie man Lösungen sauber dokumentiert**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Schwerpunkte
+
+- **IT-Security:** SIEM, Detection, Hardening, Log-Analyse, Secret Scanning
+- **Linux & Container:** Debian, Docker, Docker Compose, Services
+- **Networking:** TCP/IP, Routing, VLANs, Firewalling, VPN, Troubleshooting
+- **Cloud:** Microsoft Azure, Ressourcen, RBAC, virtuelle Maschinen
+- **Infrastructure:** Server, RAID, Storage, Remote Administration
+- **Automation:** PowerShell, Python, Git
+- **Troubleshooting:** Logs, Fehleranalyse, Root-Cause-Suche und Dokumentation
+
+## 🧪 Mein IT-Lab & Portfolio
+
+Mein zentrales Repository für Labs, Projekte und technische Dokumentationen:
+
+### [→ IT-Lab-Portfolio](https://github.com/marcel-d-eichhorn/IT-Lab-Portfolio)
+
+Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Architektur, Konfiguration, Tests, Troubleshooting und Lessons Learned.
+
+### Aktuell enthalten
+
+- **Repo Security Checker**  
+  Python-basierter Pre-Commit-Scanner mit YAML-Regeln, Regex und Git Hooks.
+
+- **Azure Basics Lab**  
+  Resource Groups, Storage, Linux-VM, RBAC und Kostenkontrolle in Microsoft Azure.
+
+### In Arbeit / geplant
+
+- **Wazuh SIEM & Detection Engineering**
+- **Debian / Docker Homelab**
+- **Sophos Firewall & Netzwerkarchitektur**
+- **Docker Swarm & High Availability**
+- **Dell PowerEdge / RAID / Serveradministration**
+- **Sysadmin Troubleshooting Case Studies**
+- **PowerShell- und Python-Automation**
+
+## 🧰 Technologien
+
+`Windows` · `Linux` · `Debian` · `PowerShell` · `Python` · `Docker` · `Git` · `Azure` · `Wazuh` · `Wireshark` · `Sophos`
+
+## 🎯 Ziel
+
+Ich möchte mich langfristig in Richtung **IT-Security, System Engineering und Cloud-Infrastruktur** entwickeln und mein Portfolio dabei kontinuierlich mit realen, nachvollziehbaren Projekten erweitern.
+
+---
+
+> Lernen, bauen, kaputtmachen, analysieren, besser wieder aufbauen. 🙂
