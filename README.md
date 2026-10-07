@@ -24,6 +24,9 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 
 ### Aktuell enthalten
 
+- **Dell PowerEdge T420 – Server Administration Lab**  
+  iDRAC/racadm, Hardware-RAID, Remote-Recovery, Hardware-Monitoring und IPMI/systemd-basierte Lüftersteuerung.
+
 - **Sophos Firewall Homelab**  
   Modulare Firewall- und Netzwerkarchitektur mit klarer Trennung zwischen Internetzugang, Security und internem Netz.
 
@@ -39,13 +42,12 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 ### In Arbeit / geplant
 
 - **Wazuh SIEM & Detection Engineering**
-- **Dell PowerEdge / RAID / Serveradministration**
 - **Sysadmin Troubleshooting Case Studies**
 - **PowerShell- und Python-Automation**
 
 ## 🧰 Technologien
 
-`Windows` · `Linux` · `Debian` · `PowerShell` · `Python` · `Docker` · `Git` · `Azure` · `Wazuh` · `Wireshark` · `Sophos`
+`Windows` · `Linux` · `Debian` · `PowerShell` · `Python` · `Docker` · `Git` · `Azure` · `Wazuh` · `Wireshark` · `Sophos` · `iDRAC`
 
 ## 🎯 Ziel
 
