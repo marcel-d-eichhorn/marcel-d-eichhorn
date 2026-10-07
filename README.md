@@ -42,8 +42,6 @@ Dort dokumentiere ich praktische Projekte mit Fokus auf nachvollziehbare Archite
 ### In Arbeit / geplant
 
 - **Wazuh SIEM & Detection Engineering**
-- **Sysadmin Troubleshooting Case Studies**
-- **PowerShell- und Python-Automation**
 
 ## 🧰 Technologien
 
